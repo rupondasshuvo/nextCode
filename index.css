@@ -1,0 +1,25 @@
+.header1{
+      background-color: rgb(140, 165, 42);
+      width: 300px;
+      height: 300px;
+      text-align: center;
+      font-size: 10px;
+      color: white;
+      border: 5px solid rgb(70, 10, 236);
+      border-radius: 20px;
+}
+
+.header2{
+      margin-top: 10px;
+      background-color: blueviolet;
+}
+.img-set{
+      height:200px ;
+      width: 200px;
+      border: 10px solid white;
+      margin: 10px;
+}
+.ecca {
+      display: flex;
+      justify-content: center;
+}
